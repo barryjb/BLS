@@ -1,0 +1,41 @@
+#devops
+set up hosting at github pages
+set up google search console
+set up google my business page
+set up facebook pixel
+work out how to host subdomain (first one will be lutwyche.bestlocal.services); this should be a completely different repo??
+work out how to host subdirectory under lutwyche.bestlocal.services (first one will be lutwyche.bestlocal.services/beauty)
+
+
+
+#code
+change blue color to less intense blue and more soothing and trustworthy blue; maybe also use different shades of blue between sections like Traversy flexbox video
+add BLS logo in middle of navbar and bottom right of footer??
+use blue color palette but change so different from TM
+change up fonts, colours, etc. to change it up from TM
+sort layout so it works for a blog (check how income school recommend to lay out a blog)
+use flexbox to make articles within parent article div space evenly over whole articles div
+use starbucks project and add hamburger menu for small screens
+
+
+
+
+#blog
+write 1st article
+organise writer for cheap - see income school for online resources to get writers
+are you a business? would you like to submit an article about the service you provide and what you do to provide the best service you possibly can?
+are you a local? would you like to submit an article about what a great local service feels like for you?  what do you look for when you are trying to find a great local service whether it be a plumber, ironing service of hiring an uber.
+add search section to navbar so people can search for localities and services
+
+
+
+#blog article title ideas
+he replaced my toilet leak for free
+why does she touch my sandwich with her hands
+do they feel awkward waiting for a specific barber
+the coffee is always heavy and extra hot
+
+
+
+#index-html
+add background hero video faded overlay of a service provider and a customer happily shaking hands
