@@ -9,6 +9,7 @@ work out how to host subdirectory under lutwyche.bestlocal.services (first one w
 
 
 #code
+make articles 2/3 the width of main and aside 1/3 the width of main
 change blue color to less intense blue and more soothing and trustworthy blue; maybe also use different shades of blue between sections like Traversy flexbox video
 add BLS logo in middle of navbar and bottom right of footer??
 use blue color palette but change so different from TM
